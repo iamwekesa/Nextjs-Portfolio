@@ -1,5 +1,5 @@
 import Date from './Date'
-import CoverImage from './CoverImage'
+import CoverImage from './CoverImage.jsx'
 import PostTitle from './PostTitle'
 import { ExternalLinkIcon } from '@/configs/icons'
 import Image from 'next/image'
