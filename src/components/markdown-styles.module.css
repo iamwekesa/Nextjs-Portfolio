@@ -19,7 +19,7 @@
 }
 
 .markdown p a {
-    @apply text-accent underline hover: text-opacity-70;
+    @apply text-accent underline hover:text-opacity-70;
 }
 
 .markdown ul li {
