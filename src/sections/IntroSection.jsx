@@ -23,7 +23,7 @@ const IntroSection = ({ heading, subHeading, resumeLink, socials }) => {
       <div className="w-[80px] sm:w-[186px] relative mb-6 sm:mb-0 rounded-full">
         <Image
           src={avatar}
-          alt="Stefan Kudla"
+          alt="Dennis E. Wekesa"
           height={186}
           width={186}
           quality={60}
