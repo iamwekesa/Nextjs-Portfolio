@@ -1,3 +1,4 @@
+
 .markdown {
     @apply text-lg leading-relaxed;
 }
@@ -6,7 +7,7 @@
 .markdown ul,
 .markdown ol,
 .markdown blockquote {
-    @apply my-6 text-fore-secondary text-[16px] md: text-[18px];
+    @apply my-6 text-fore-secondary text-[16px] md:text-[18px];
 }
 
 .markdown h2 {
@@ -22,11 +23,11 @@
 }
 
 .markdown ul li {
-    @apply list-disc list-inside mb-2 bg-back-subtle p-2 rounded text-[16px] md: text-[18px] font-semibold;
+    @apply list-disc list-inside mb-2 bg-back-subtle p-2 rounded text-[16px] md:text-[18px] font-semibold;
 }
 
 .markdown ol li {
-    @apply list-decimal list-inside mb-2 bg-back-subtle p-2 rounded text-[16px] md: text-[18px] font-semibold;
+    @apply list-decimal list-inside mb-2 bg-back-subtle p-2 rounded text-[16px] md:text-[18px] font-semibold;
 }
 
 .markdown img {
